@@ -1,6 +1,9 @@
 # No se debe actualizar el directorio PyGUI ya que tiene repositorio propio en GitHub
 PyGUI/
 
+# No subir ni actualizar los recursos sin usar
+recursosSinUsar/
+
 # Archivos sublime
 *.sublime-workspace
 *.sublime-project
